@@ -1,3 +1,3 @@
 # hello-world
 
-demo file
+demo wercker workflow
